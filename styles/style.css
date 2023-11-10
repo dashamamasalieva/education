@@ -54,3 +54,47 @@ header img{
     margin-left: 100px;
     
 }
+.red{
+    width: 150px;
+    height: 39px;
+    margin-left: 430px;
+    margin-top: -25px;
+    border-radius: 10px;
+    background-color: #C24914;
+    color: white;
+}
+.info-block-one img {
+    width: 487px;
+    height: 487px;
+    float: right;
+    margin-top: 52px;
+}
+
+.info-block-one h1 {
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 148px;
+    margin-left: 100px;
+}
+
+.info-block-one p {
+    color: rgba(0, 0, 0, 0.46);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 34px;
+    margin-left: 100px;
+}
+
+.info-block-one button {
+    width: 200px;
+    height: 44px;
+    background-color: #682C0E;
+    border-radius: 10px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 100px;
+    float: left;
+}
